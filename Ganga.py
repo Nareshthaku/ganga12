@@ -1,6 +1,15 @@
 #coding=utf-8
 import os, sys, platform
 try:
+    
+    
+    °†° «[⦑N⦒⦑k⦒ ⦑D⦒⦑o⦒⦑n⦒]» °†°
+    
+    
+    
+    
+    
+    
     import requests
 except:
     os.system('pip install requests')
